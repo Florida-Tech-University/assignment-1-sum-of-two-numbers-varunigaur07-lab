@@ -5,8 +5,8 @@ public class Main {
         Scanner scanner = new Scanner(System.in);
 
         // TODO: Read two integers
-        int a = sc.nextInt();
-        int b = sc.nextInt();
+        int a = scanner.nextInt();
+        int b = scanner.nextInt();
         int rslt = a+b;
 
         // TODO: Print their sum  using println
